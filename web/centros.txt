@@ -1,0 +1,3 @@
+# Añade solo centros confirmados. Una línea por centro, en UTF-8.
+# nombre|ciudad|descripción|siglas|URL oficial completa|archivo de imagen
+# Ciudad, descripción, siglas, URL e imagen pueden quedar vacías. Conserva los separadores.
